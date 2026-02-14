@@ -1,4 +1,4 @@
-````md
+
 # <Project Title>
 
 One-line description: what this does + who it helps.
@@ -53,7 +53,7 @@ python -m venv .venv
 source .venv/bin/activate  # or Windows equivalent
 pip install -r requirements.txt
 cp .env.example .env
-````
+
 
 ## Usage
 
