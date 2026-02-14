@@ -82,6 +82,3 @@ python -m src.main
 MIT
 
 ```
-
-Paste → commit → reply **ok**.
-```
