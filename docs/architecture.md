@@ -5,7 +5,7 @@
 
 ## Diagram
 Add your diagram here:
-- `assets/images/architecture.png`
+- `assets/images/architecture.png` 
 
 ## Components
 ### 1) Ingestion
