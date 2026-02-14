@@ -1,5 +1,5 @@
 
-# <Project Title>
+# Project Title
 
 One-line description: what this does + who it helps.
 
