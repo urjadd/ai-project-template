@@ -1,3 +1,4 @@
+````md
 # <Project Title>
 
 One-line description: what this does + who it helps.
@@ -52,3 +53,35 @@ python -m venv .venv
 source .venv/bin/activate  # or Windows equivalent
 pip install -r requirements.txt
 cp .env.example .env
+````
+
+## Usage
+
+```bash
+python -m src.main
+```
+
+## Repo Map
+
+* `src/` core code
+* `docs/` architecture + eval notes
+* `notebooks/` experiments
+* `scripts/` helper scripts
+* `assets/` images for README
+* `data/` raw/processed data (don’t commit private data)
+
+## Roadmap
+
+* [ ] MVP
+* [ ] Evaluation
+* [ ] Deployment
+* [ ] Blog post
+
+## License
+
+MIT
+
+```
+
+Paste → commit → reply **ok**.
+```
